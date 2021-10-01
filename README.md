@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SelvarajGaneshan
-- 👀 I’m interested in ...Reactjs
+- 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...React core
 - 💞️ I’m looking to collaborate on ...React
 - 📫 How to reach me ...
